@@ -12,3 +12,5 @@ def calculate_tip_and_split_calculator():
 
     print(f"Each person should pay: ${amount_per_person:.2f}")
 
+calculate_tip_and_split_calculator()
+
